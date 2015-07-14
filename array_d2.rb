@@ -1,5 +1,6 @@
 # Pauls erstes Spiel
-
+puts 'Dungeon Player by Pather2804 v0.0.5 (ALPHA)'
+sleep 2
 def init2d 
   array = []
   0.upto(10) do |i|

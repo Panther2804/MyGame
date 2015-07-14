@@ -27,3 +27,4 @@ a = init2d
 a[0][0] = 1
 
 print2d a
+
