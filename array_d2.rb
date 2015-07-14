@@ -1,3 +1,4 @@
+# Pauls erstes Spiel
 
 def init2d 
   array = []
